@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **CaioSGoncalves/CaioSGoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Desenvolvedor FullStack com especialidade em BackEnd e Engenharia de Dados.
+
+- Devops: Docker, Kubernetes, CI/CD, Terraform
+- Cloud: AWS e GCP
+- Engenharia de Dados: Airflow, Spark, Data Lake, Data Warehouse
+
+- Consigo me virar muito bem no FrontEnd com Javascript e o framework React.
+
+Atualmente estudando:
+- NodeJS
+- React
+- Apache Kafka
+- Blockchain
