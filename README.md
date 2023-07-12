@@ -14,16 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Desenvolvedor FullStack com especialidade em BackEnd e Engenharia de Dados.
+- Engenheiro com especialidade em BackEnd, Engenharia de Dados e DevOps.
 
 - Devops: Docker, Kubernetes, CI/CD, Terraform
 - Cloud: AWS e GCP
 - Engenharia de Dados: Airflow, Spark, Data Lake, Data Warehouse
 
-- Consigo me virar muito bem no FrontEnd com Javascript e o framework React.
-
 Atualmente estudando:
-- NodeJS
-- React
 - Apache Kafka
-- Blockchain
