@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 **Backend and Platform Engineer** with 7+ years of experience building scalable and reliable systems.
 
 **Background:** Backend development, distributed systems, cloud-native architectures, data-intensive systems (batch and streaming), and platform engineering
+
 **Languages:** Go, Python, Node.js
 
 **Experience:**
