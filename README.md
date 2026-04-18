@@ -14,16 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Engineer building scalable backend systems for 7+ years.
+Backend and Platform Engineer with 7+ years of experience building scalable and reliable systems.
 
-**Background:** Backend development, distributed systems, cloud-native architectures, data-intensive systems (batch and streaming), and platform engineering
+Background: Backend development, distributed systems, cloud-native architectures, data-intensive systems (batch and streaming), and platform engineering
+Languages: Go, Python, Node.js
 
-**Languages:** Go, Python, Node.js
+Experience:
+- Designed and operated distributed systems and large-scale data platforms in production, including ML-driven microservices for search, classification, recommendation and ranking
+- Improved engineering efficiency by building and maintaining internal tools and services used by other teams
 
-**Experience:** Designed and operated distributed systems and large-scale data platforms in production, including ML-driven microservices for search, classification, recommendation and ranking.
+Principles: Keep it simple, make it reliable and easy to operate, ensure it scales.
 
-**Principles:** Keep it simple, make it reliable and easy to operate, ensure it scales.
-
-**Currently:**
-- Building and operating self-hosted systems in a personal homelab.  
-- Exploring systems programming with Go and Rust.
+Currently:
+Building and operating self-hosted systems in a personal homelab.
+Exploring systems programming with Go and Rust.
