@@ -1,31 +1,21 @@
 
 <!--
 **CaioSGoncalves/CaioSGoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-**Backend and Platform Engineer** with 7+ years of experience building scalable and reliable systems.
+Backend/DevOps Engineer building and operating my personal self-hosted systems.
 
-**Background:** Backend development, distributed systems, cloud-native architectures, data-intensive systems (batch and streaming), and platform engineering
+Exploring a Kubernetes-based homelab with tools and services designed for simplicity, automation, and observability.
 
-**Languages:** Go, Python, Node.js
+## Projects:
+- [opus](https://github.com/CaioSGoncalves/opus) — CLI for building, deploying, and monitoring Go services with integrated observability, without dealing with YAML or complex setups
+- [domus](https://github.com/CaioSGoncalves/domus) — Lightweight self-hosted home system for tasks, notifications, and scheduling, built with Go and Svelte
 
-**Experience:**
-- Designed and operated distributed systems and large-scale data platforms in production, including ML-driven microservices for search, classification, recommendation and ranking
-- Improved engineering efficiency by building and maintaining internal tools and services used by other teams
+## Programming Languages
+<p> <img src="https://skillicons.dev/icons?i=go,python,nodejs,bash" /> </p>
 
-**Principles:** Keep it simple, make it reliable and easy to operate, ensure it scales.
+## Technologies
+<p> <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,prometheus,grafana,linux,githubactions,kafka" /> </p>
 
-**Currently:**
-Building and operating self-hosted systems in a personal homelab.
-Exploring systems programming with Go and Rust.
+## Cloud
+<p> <img src="https://skillicons.dev/icons?i=aws,gcp" /> </p>
