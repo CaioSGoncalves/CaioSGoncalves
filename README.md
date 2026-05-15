@@ -8,7 +8,7 @@ Backend/DevOps Engineer building and operating my personal self-hosted systems.
 Exploring a Kubernetes-based homelab with tools and services designed for simplicity, automation, and observability.
 
 ## Projects:
-- [opus](https://github.com/CaioSGoncalves/opus): Fast, simple deploys for your homelab — systemd for binaries, k3s for containers
+- [opus](https://github.com/CaioSGoncalves/opus): Fast, simple deploys for your homelab - systemd for binaries, k3s for containers
 - [domus](https://github.com/CaioSGoncalves/domus): Lightweight self-hosted home system for tasks, notifications, and scheduling, built with Go and Svelte
 
 ## Programming Languages
