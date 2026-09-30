@@ -8,7 +8,7 @@ Backend/DevOps Engineer building and operating my personal self-hosted systems.
 Exploring a Proxmox homelab with Terraform, Ansible, Docker and Kubernetes.
 
 ## Projects:
-- [domus](https://github.com/CaioSGoncalves/domus): Homelab and self hosted services with Proxmox, Terraform, Ansible and Docker.
+- [domus-lab](https://github.com/CaioSGoncalves/domus-lab): My homelab and self hosted services with Proxmox, Terraform, Ansible and Docker.
 - [opus](https://github.com/CaioSGoncalves/opus): Fast, simple deploys for your homelab - systemd for binaries, k3s for containers
 
 ## Programming Languages
