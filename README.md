@@ -5,7 +5,7 @@
 
 Backend/DevOps Engineer building and operating my personal self-hosted systems.
 
-Exploring a Kubernetes-based homelab with tools and services designed for simplicity, automation, and observability.
+Exploring a Proxmox homelab with Terraform, Ansible, Docker and Kubernetes.
 
 ## Projects:
 - [opus](https://github.com/CaioSGoncalves/opus): Fast, simple deploys for your homelab - systemd for binaries, k3s for containers
@@ -15,7 +15,8 @@ Exploring a Kubernetes-based homelab with tools and services designed for simpli
 <p> <img src="https://skillicons.dev/icons?i=go,python,nodejs,bash" /> </p>
 
 ## Technologies
-<p> <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,prometheus,grafana,linux,githubactions,kafka" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,prometheus,grafana,linux,githubactions,kafka" /> </p>
+
 
 ## Cloud
 <p> <img src="https://skillicons.dev/icons?i=aws,gcp" /> </p>
